@@ -1,3 +1,6 @@
 Sample 1 
 Second edit
 Alice last edit?! or not.
+ALICE edit 1
+Alice last edit?
+>>>>>>> 8ce4710255da676c654f6467e7f3aa3c48932bc6
